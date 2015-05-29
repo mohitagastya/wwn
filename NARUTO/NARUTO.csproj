@@ -59,6 +59,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\images\1387909-uchiha-madara-vs-hashirama-senju.png" />
+    <Content Include="assets\images\madarasenju.png" />
+    <Content Include="assets\images\shippuden-naruto-shippuuden-6766620-800-600.jpg" />
     <Content Include="css\main.css" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
@@ -80,7 +83,6 @@
   <ItemGroup>
     <Folder Include="assets\audio\" />
     <Folder Include="assets\fonts\" />
-    <Folder Include="assets\images\" />
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="scripts\Narutogame.ts" />

@@ -1,13 +1,15 @@
-﻿body {background: #ffb76b; /* Old<a class="sdlxbelk" href="#17091130" title="Click to Continue > by Browser Shop"> browsers<img src="http://cdncache-a.akamaihd.net/items/it/img/arrow-10x10.png"></a> */
-background: -moz-linear-gradient(top,  #ffb76b 0%, #ffa73d 50%, #ff7c00 51%, #ff7f04 100%); /* FF3.6+ */
-background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffb76b), color-stop(50%,#ffa73d), color-stop(51%,#ff7c00), color-stop(100%,#ff7f04)); /*<a class="sdlxbelk" href="#48667599" title="Click to Continue > by Browser Shop"> Chrome<img src="http://cdncache-a.akamaihd.net/items/it/img/arrow-10x10.png"></a>,Safari4+ */
-background: -webkit-linear-gradient(top,  #ffb76b 0%,#ffa73d 50%,#ff7c00 51%,#ff7f04 100%); /* Chrome10+,Safari5.1+ */
-background: -o-linear-gradient(top,  #ffb76b 0%,#ffa73d 50%,#ff7c00 51%,#ff7f04 100%); /*<a class="sdlxbelk" href="#59566429" title="Click to Continue > by Browser Shop"> Opera<img src="http://cdncache-a.akamaihd.net/items/it/img/arrow-10x10.png"></a> 11.10+ */
-background: -ms-linear-gradient(top,  #ffb76b 0%,#ffa73d 50%,#ff7c00 51%,#ff7f04 100%); /* IE10+ */
-background: linear-gradient(to bottom,  #ffb76b 0%,#ffa73d 50%,#ff7c00 51%,#ff7f04 100%); /* W3C */
-filter: progid:DXImageTransform<a class="sdlxbelk" href="#83588041" title="Click to Continue > by Browser Shop"> Microsoft<img src="http://cdncache-a.akamaihd.net/items/it/img/arrow-10x10.png"></a>.gradient( startColorstr='#ffb76b', endColorstr='#ff7f04',GradientType=0 ); /* IE6-9 */
-
+﻿body {
+    background: #ffb76b; /* Old<a class="sdlxbelk" href="#17091130" title="Click to Continue > by Browser Shop"> browsers<img src="http://cdncache-a.akamaihd.net/items/it/img/arrow-10x10.png"></a> */
+    background: -moz-linear-gradient(top, #ffb76b 0%, #ffa73d 50%, #ff7c00 51%, #ff7f04 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffb76b), color-stop(50%,#ffa73d), color-stop(51%,#ff7c00), color-stop(100%,#ff7f04)); /*<a class="sdlxbelk" href="#48667599" title="Click to Continue > by Browser Shop"> Chrome<img src="http://cdncache-a.akamaihd.net/items/it/img/arrow-10x10.png"></a>,Safari4+ */
+    background: -webkit-linear-gradient(top, #ffb76b 0%,#ffa73d 50%,#ff7c00 51%,#ff7f04 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #ffb76b 0%,#ffa73d 50%,#ff7c00 51%,#ff7f04 100%); /*<a class="sdlxbelk" href="#59566429" title="Click to Continue > by Browser Shop"> Opera<img src="http://cdncache-a.akamaihd.net/items/it/img/arrow-10x10.png"></a> 11.10+ */
+    background: -ms-linear-gradient(top, #ffb76b 0%,#ffa73d 50%,#ff7c00 51%,#ff7f04 100%); /* IE10+ */
+    background: linear-gradient(to bottom, #ffb76b 0%,#ffa73d 50%,#ff7c00 51%,#ff7f04 100%); /* W3C */
+    filter: progid:DXImageTransform<a class="sdlxbelk" href="#83588041" title="Click to Continue > by Browser Shop"> Microsoft<img src="http://cdncache-a.akamaihd.net/items/it/img/arrow-10x10.png"></a>.gradient( startColorstr='#ffb76b', endColorstr='#ff7f04',GradientType=0 ); /* IE6-9 */
+    background-image: url('../assets/images/1387909-uchiha-madara-vs-hashirama-senju.png');
 }
+
 
 .impess-enabled .step{
     margin: 0;
@@ -24,10 +26,11 @@ transition: background 1s;
 opacity:1;
 }
 
-.slide{
-    display:block;
-    width:700px;
-    height:600px;
+.slide {
+    background-image: url('../assets/images/shippuden-naruto-shippuuden-6766620-800-600.jpg');
+    display: block;
+    width: 700px;
+    height: 600px;
     padding: 40px 60px;
     background-color: white;
     border: 1px solid rgba(0,0,0,0.3);
