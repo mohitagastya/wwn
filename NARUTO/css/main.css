@@ -37,3 +37,35 @@ opacity:1;
     font-family: "Open Sans" Arial, sans-serif;
     font-size: 30px;
 }
+/* sliding paragraph*/
+.slide p {
+    margin-top : 15px;
+    margin-bottom: 30px;
+    line-height: 40px;
+}
+.slide a,.slide a:visited{
+    color: #808080;
+    background-color: #abc;
+    text-decoration: none;
+    padding:5px;
+    border-radius: 5px;
+    border:1px solid #cde;
+
+}
+
+.slide a:hover,.slide a:active;
+{
+    background-color:#cde;
+
+}
+/*slide text area*/
+.slide.slide-text{
+    height: 450 px;
+
+}
+/*styling for menu */
+div.menu{
+    border-top: 2px solid black;
+    padding-top:25px;
+    text-align: center;
+}
